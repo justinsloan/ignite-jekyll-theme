@@ -1,5 +1,5 @@
 # Release Notes
 
-## [1.0.0] - 2015-11-29
+## [1.0.0] - 2018-09-29
 ### Released
-- Initial release.
+- Forked from Butane theme.
