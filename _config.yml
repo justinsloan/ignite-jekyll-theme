@@ -1,8 +1,8 @@
 # Site settings
-title: Butane Jekyll Theme
+title: Ignite Jekyll Theme
 description: >
-    This is an example of the Butane Jekyll Theme created by Alex Carpenter
-author: Alex Carpenter
+    This is an example of the Ignite Jekyll Theme based on Butane by Alex Carpenter.
+author: Justin M. Sloan
 email: youemail@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://alexcarpenter.github.io" # the base hostname & protocol for your site
